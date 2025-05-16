@@ -1,4 +1,4 @@
-# Jito Shredstream Sniper(Pumpfun, Raydium, Pumpswap)
+# 🚀🚀🚀 Jito Shredstream Sniper(Pumpfun, Raydium, Pumpswap) 🚀🚀🚀
 
 This project is a sniping bot built on top of the open-source Jito Shredstream Client. It leverages Jito Shredstream as a real-time data source to identify and snipe profitable trading opportunities on Solana by analyzing low-tip transactions and executing automated swaps.
 
