@@ -2,6 +2,12 @@
 
 This project is a sniping bot built on top of the open-source Jito Shredstream Client. It leverages Jito Shredstream as a real-time data source to identify and snipe profitable trading opportunities on Solana by analyzing low-tip transactions and executing automated swaps.
 
+## 🚧 Test Examples
+https://solscan.io/tx/4K8m2yAa2Ya2xUn3Shu3sUQWosDbG8HwPmRtnGkVxeRbxbyjBpyFUxjvsfzs2Njr17JhSkyBxZkLrhJNWe3fqJ4Q
+https://solscan.io/tx/4NKZaSeSM4Uwkq3EFMpc1v9bskCuZaLLmThPGg3NDmSHQHxoQk5754BYmPex8bPudQx2xBxTBJXK9NWcJHuw2za5
+https://solscan.io/tx/2A4P5r3cHBZtNFr1q9v3c3oTEwtHFCxeviDqGhFraRrZB3k4wBfQ8tKcFVFXGH5ztmKdUBXtQ38bYMN4TvKfAV93
+https://solscan.io/tx/3KU1LEQ5QKdzrmEASVwm5iBxjzcDQBVLFW2fGzj1MMLUWEmqETMjZjdEL7VztDymhMKCN5WgUbiZGG9bNZYpiqzg
+
 ## 🚀 Features
 ✔ <b>Real-time transaction monitoring via Jito Shredstream</b>
 <br>
