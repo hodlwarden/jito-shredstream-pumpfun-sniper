@@ -1,6 +1,9 @@
 # 🚀🚀🚀 Jito Shredstream Pumpfun Sniper 🚀🚀🚀
 
-This project is a sniping bot built on top of the open-source Jito Shredstream Client. It leverages Jito Shredstream as a real-time data source to identify and snipe profitable trading opportunities on Solana by analyzing low-tip transactions and executing automated swaps.
+## Pumpfun sniper
+Pumpfun sniper allows you can snipe newly launched tokens on pumpfun very quickly.
+## Jito ShredStream vs GRPC
+Jito shredstream pumpfun sniper, 0 block sniping in stable, first buyer with 70 ~ 80% win rate, jito shredstream is faster than grpc around 100 ~ 150ms which means it has higher rate that can win others who use grpc.
 
 ## 🚧 Test Examples
 https://solscan.io/tx/4K8m2yAa2Ya2xUn3Shu3sUQWosDbG8HwPmRtnGkVxeRbxbyjBpyFUxjvsfzs2Njr17JhSkyBxZkLrhJNWe3fqJ4Q
