@@ -98,7 +98,9 @@ Automatically sells after SELL_DELAY_MS.
 
 ## 📌 Notes & Warnings
 ⚠ High-risk trading: Sniping can lead to losses (slippage, rugs, failed TXs).
+
 ⚠ Use a dedicated wallet: Avoid using your main wallet.
+
 ⚠ Optimize RPC: A private RPC reduces latency (essential for sniping).
 
 ## 🔄 Advanced Optimizations
