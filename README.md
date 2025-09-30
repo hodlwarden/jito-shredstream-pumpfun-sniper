@@ -1,5 +1,7 @@
 # 🚀🚀🚀 Jito Shredstream Pumpfun Sniper 🚀🚀🚀
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 ## Pumpfun sniper
 Pumpfun sniper allows you can snipe newly launched tokens on pumpfun very quickly.
 ## Jito ShredStream vs GRPC
