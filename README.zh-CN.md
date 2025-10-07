@@ -9,10 +9,13 @@ Pumpfun 狙击机器人可以让您在 pumpfun 上非常快速地狙击新发布
 Jito shredstream pumpfun 狙击机器人，稳定的 0 区块狙击，作为首位买家的胜率达到 70 ~ 80%。Jito shredstream 比 GRPC 快约 100 ~ 150 毫秒，这意味着它比使用 GRPC 的其他机器人有更高的胜率。
 
 ## 🚧 测试案例
-https://solscan.io/tx/4K8m2yAa2Ya2xUn3Shu3sUQWosDbG8HwPmRtnGkVxeRbxbyjBpyFUxjvsfzs2Njr17JhSkyBxZkLrhJNWe3fqJ4Q
-https://solscan.io/tx/4NKZaSeSM4Uwkq3EFMpc1v9bskCuZaLLmThPGg3NDmSHQHxoQk5754BYmPex8bPudQx2xBxTBJXK9NWcJHuw2za5
-https://solscan.io/tx/2A4P5r3cHBZtNFr1q9v3c3oTEwtHFCxeviDqGhFraRrZB3k4wBfQ8tKcFVFXGH5ztmKdUBXtQ38bYMN4TvKfAV93
-https://solscan.io/tx/3KU1LEQ5QKdzrmEASVwm5iBxjzcDQBVLFW2fGzj1MMLUWEmqETMjZjdEL7VztDymhMKCN5WgUbiZGG9bNZYpiqzg
+Create - https://solscan.io/tx/2kWPwzrh31VCqxW8dsM2aMcQvubLAZiPxJwdRrujagWSSYpwhJtgVmH2PVKTbUEpr8ry64byPwxz9ucqVL3BQyua
+
+Snipe - https://solscan.io/tx/4K8m2yAa2Ya2xUn3Shu3sUQWosDbG8HwPmRtnGkVxeRbxbyjBpyFUxjvsfzs2Njr17JhSkyBxZkLrhJNWe3fqJ4Q
+
+Create - https://solscan.io/tx/iofMQrXE1au65GSvCfgM5iUPv3QXvEQUTTrqWQVDs3qVTdmuMGnZtt7KU3UA3C1ueSvHcviiuKtftFBFb3hin1J
+
+Snipe - https://solscan.io/tx/4NKZaSeSM4Uwkq3EFMpc1v9bskCuZaLLmThPGg3NDmSHQHxoQk5754BYmPex8bPudQx2xBxTBJXK9NWcJHuw2za5
 
 ## 🚀 功能特性
 ✔ <b>通过 Jito Shredstream 实时监控交易</b>
