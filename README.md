@@ -1,4 +1,4 @@
-# 🚀🚀🚀 Jito Shredstream/Grpc Pumpfun Sniper 🚀🚀🚀
+# 🚀🚀🚀 Jito Shredstream + Grpc Pumpfun Sniper 🚀🚀🚀
 
 [English](README.md) | [中文](README.zh-CN.md)
 
@@ -6,6 +6,8 @@
 Pumpfun sniper allows you can snipe newly launched tokens on pumpfun very quickly.
 ## Jito ShredStream vs GRPC
 Jito shredstream pumpfun sniper, 0 block sniping in stable, first buyer with 70 ~ 80% win rate, jito shredstream is faster than grpc around 100 ~ 150ms which means it has higher rate that can win others who use grpc.
+But the limitation of shredstream is that doesn't include meta of transaction which means can't get exact transaction info.
+So I combined shredstream and grpc, so built more strong monitor.
 
 ## 🚧 Test Examples
 Create - https://solscan.io/tx/2kWPwzrh31VCqxW8dsM2aMcQvubLAZiPxJwdRrujagWSSYpwhJtgVmH2PVKTbUEpr8ry64byPwxz9ucqVL3BQyua
