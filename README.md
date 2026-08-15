@@ -34,4 +34,4 @@ Snipe - https://solscan.io/tx/4NKZaSeSM4Uwkq3EFMpc1v9bskCuZaLLmThPGg3NDmSHQHxoQk
 Contributions are welcome! Please open an issue or pull request for any improvements.
 Feel free to reach out me for any suggestions and questions, you're always welcome.
 <br>
-Telegram - [Hodlwarden](https://t.me/hodlwarden)
+Telegram - [0xcrypoops](https://t.me/oxcrypoops)
