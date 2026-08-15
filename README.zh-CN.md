@@ -33,4 +33,4 @@ Snipe - https://solscan.io/tx/4NKZaSeSM4Uwkq3EFMpc1v9bskCuZaLLmThPGg3NDmSHQHxoQk
 欢迎贡献！如有任何改进建议，请提交 issue 或 pull request。
 如有任何建议和问题，欢迎随时联系我。
 <br>
-Telegram - [Hodlwarden](https://t.me/hodlwarden)
+Telegram - [0xcrypoops](https://t.me/oxcrypoops)
